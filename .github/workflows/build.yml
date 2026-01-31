@@ -29,6 +29,7 @@ jobs:
           # !! Add your recipes here
           - recipe-bazzite-laptop.yml
           - recipe-bazzite-tower.yml
+          - recipe-bazzite-tower-gnome.yml
           - recipe-bazzite-theater.yml
     steps:
       # the build is fully handled by the reusable github action
